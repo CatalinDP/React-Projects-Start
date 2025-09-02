@@ -1,0 +1,34 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+form {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem;
+  justify-content: center;
+}
+
+button {
+  background-color: #6200ee;
+  color: white;
+  transition: all 200ms ease-in-out;
+  margin-left: 6px;
+}
+
+button:hover {
+  background-color: #3700b3;
+  cursor: pointer;
+  transform: scale(1.11) rotate(5deg);
+}
