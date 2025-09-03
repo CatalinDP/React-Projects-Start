@@ -1,0 +1,41 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.filters > div {
+  display: flex;
+  gap: 1rem;
+}
+
+#price {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100px;
+  margin-top: 8px;
+  height: 8px;
+  background: #ddd;
+  border-radius: 5px;
+  outline: none;
+}
+
+#price::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
+
+#price::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
