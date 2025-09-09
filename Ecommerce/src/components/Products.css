@@ -45,3 +45,11 @@
   object-fit: cover;
   background: #fff;
 }
+
+.deleteFromCart-btn{
+  background-color: red;
+}
+
+.addToCart-btn{
+  background-color: green;
+}

@@ -10,7 +10,7 @@
    "stock": 94,
    "brand": "Apple",
    "category": "smartphones",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+   "thumbnail": "1",
    "images": [
    "https://cdn.dummyjson.com/product-images/1/1.jpg",
    "https://cdn.dummyjson.com/product-images/1/2.jpg",
@@ -29,7 +29,7 @@
    "stock": 34,
    "brand": "Apple",
    "category": "smartphones",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+   "thumbnail": "2",
    "images": [
    "https://cdn.dummyjson.com/product-images/2/1.jpg",
    "https://cdn.dummyjson.com/product-images/2/2.jpg",
@@ -47,7 +47,7 @@
    "stock": 36,
    "brand": "Samsung",
    "category": "smartphones",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+   "thumbnail": "3",
    "images": [
    "https://cdn.dummyjson.com/product-images/3/1.jpg"
    ]
@@ -62,7 +62,7 @@
    "stock": 123,
    "brand": "OPPO",
    "category": "smartphones",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+   "thumbnail": "4",
    "images": [
    "https://cdn.dummyjson.com/product-images/4/1.jpg",
    "https://cdn.dummyjson.com/product-images/4/2.jpg",
@@ -81,7 +81,7 @@
    "stock": 32,
    "brand": "Huawei",
    "category": "smartphones",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+   "thumbnail": "5",
    "images": [
    "https://cdn.dummyjson.com/product-images/5/1.jpg",
    "https://cdn.dummyjson.com/product-images/5/2.jpg",
@@ -98,7 +98,7 @@
    "stock": 83,
    "brand": "Apple",
    "category": "laptops",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+   "thumbnail": "6",
    "images": [
    "https://cdn.dummyjson.com/product-images/6/1.png",
    "https://cdn.dummyjson.com/product-images/6/2.jpg",
@@ -116,7 +116,7 @@
    "stock": 50,
    "brand": "Samsung",
    "category": "laptops",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+   "thumbnail": "7",
    "images": [
    "https://cdn.dummyjson.com/product-images/7/1.jpg",
    "https://cdn.dummyjson.com/product-images/7/2.jpg",
@@ -134,7 +134,7 @@
    "stock": 68,
    "brand": "Microsoft Surface",
    "category": "laptops",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+   "thumbnail": "8",
    "images": [
    "https://cdn.dummyjson.com/product-images/8/1.jpg",
    "https://cdn.dummyjson.com/product-images/8/2.jpg",
@@ -153,7 +153,7 @@
    "stock": 96,
    "brand": "Infinix",
    "category": "laptops",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+   "thumbnail": "9",
    "images": [
    "https://cdn.dummyjson.com/product-images/9/1.jpg",
    "https://cdn.dummyjson.com/product-images/9/2.png",
@@ -172,7 +172,7 @@
    "stock": 89,
    "brand": "HP Pavilion",
    "category": "laptops",
-   "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+   "thumbnail": "10",
    "images": [
    "https://cdn.dummyjson.com/product-images/10/1.jpg",
    "https://cdn.dummyjson.com/product-images/10/2.jpg",
