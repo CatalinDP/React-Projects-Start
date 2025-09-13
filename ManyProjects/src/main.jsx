@@ -8,9 +8,7 @@ import AppShoppingCart from './apps/AppShoppingCart.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <AppToDo />
-    <hr></hr>
     <AppContactList />
-    <hr></hr>
     <AppShoppingCart />
   </StrictMode>,
 )
